@@ -1,0 +1,5 @@
+easy_pyttsx3==1.0.0
+keras==2.6.0
+numpy==1.19.5
+opencv_python==4.6.0.66
+skimage==0.0
